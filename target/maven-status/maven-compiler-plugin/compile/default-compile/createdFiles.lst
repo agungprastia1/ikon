@@ -1,0 +1,8 @@
+com/demo/ikon/config/initConfig.class
+com/demo/ikon/dtos/ResponseApi$ResponseApiBuilder.class
+com/demo/ikon/service/TestService.class
+com/demo/ikon/IkonApplication.class
+com/demo/ikon/dtos/ResponseDto.class
+com/demo/ikon/dtos/ResponseApi.class
+com/demo/ikon/dtos/ResponseDto$ResponseDtoBuilder.class
+com/demo/ikon/controllers/TestController.class
