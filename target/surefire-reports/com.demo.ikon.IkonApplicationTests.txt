@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.demo.ikon.IkonApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.499 s -- in com.demo.ikon.IkonApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.754 s -- in com.demo.ikon.IkonApplicationTests

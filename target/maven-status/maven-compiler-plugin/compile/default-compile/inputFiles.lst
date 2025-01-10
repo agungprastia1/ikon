@@ -1,6 +1,8 @@
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/IkonApplication.java
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/config/initConfig.java
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/controllers/TestController.java
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/dtos/ResponseApi.java
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/dtos/ResponseDto.java
-/Users/agungprasetia/Downloads/ikon/src/main/java/com/demo/ikon/service/TestService.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/IkonApplication.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/config/InitConfig.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/controllers/TestController.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/dtos/GetTestRequest.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/dtos/ResponseApi.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/dtos/ResponseDto.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/dtos/ResponseListDto.java
+/Users/agungprasetia/ikon/src/main/java/com/demo/ikon/service/TestService.java
